@@ -59,7 +59,6 @@ public final class FChecks extends JavaPlugin {
             } else {
                 Bukkit.getLogger().info(c.getSender() + " != " + sender);
             }
-            // TODO: Didn't works.
         }
 
     }
