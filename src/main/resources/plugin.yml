@@ -1,0 +1,10 @@
+name: FChecks
+version: '${version}'
+main: ru.yuiopmju.fchecks.FChecks
+api-version: '1.16'
+authors: [yuiopmju]
+description: Easy plugin for cheat checks
+website: sfcore.ru
+commands:
+  fchecks:
+    aliases: [check]
